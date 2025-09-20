@@ -32,4 +32,4 @@ Libraries:
 
 pip install pandas matplotlib openpyxl
 
-▶️ Run the blood-canceer.py
+▶️ Run the blood-canceer.py or blood-canceer2.ipynb
